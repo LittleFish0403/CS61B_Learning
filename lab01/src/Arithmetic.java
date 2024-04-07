@@ -17,7 +17,7 @@ public class Arithmetic {
     /** Computes sum of two ints (incorrectly).
      * @param a Value 1
      * @param b Value 2
-     * @return Sum of a and b
+     * @return Sum of a and b well
      * */
     public static int sum(int a, int b) {
         return a + b;
